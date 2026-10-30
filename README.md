@@ -6,7 +6,7 @@ I'm a developer who enjoys building web applications, exploring UI/UX design, an
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,7 +81,7 @@ I'm a developer who enjoys building web applications, exploring UI/UX design, an
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Backend Development with Node.js and Express
 - API Design and Request Validation
@@ -90,7 +90,7 @@ I'm a developer who enjoys building web applications, exploring UI/UX design, an
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rockinhera)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunehra-shahid-3b1680439/)
