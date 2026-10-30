@@ -28,7 +28,7 @@ I'm a developer who enjoys building web applications, exploring UI/UX design, an
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
